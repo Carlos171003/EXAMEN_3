@@ -1,0 +1,14 @@
+C:\Users\carlo\Downloads\Examen3\Examen3\bin\Debug\net9.0\Examen3.exe
+C:\Users\carlo\Downloads\Examen3\Examen3\bin\Debug\net9.0\Examen3.deps.json
+C:\Users\carlo\Downloads\Examen3\Examen3\bin\Debug\net9.0\Examen3.runtimeconfig.json
+C:\Users\carlo\Downloads\Examen3\Examen3\bin\Debug\net9.0\Examen3.dll
+C:\Users\carlo\Downloads\Examen3\Examen3\bin\Debug\net9.0\Examen3.pdb
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.AssemblyInfo.cs
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.dll
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\refint\Examen3.dll
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.pdb
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.genruntimeconfig.cache
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\ref\Examen3.dll
