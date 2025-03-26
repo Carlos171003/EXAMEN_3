@@ -12,3 +12,4 @@ C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\refint\Examen3.dll
 C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.pdb
 C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.genruntimeconfig.cache
 C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\ref\Examen3.dll
+C:\Users\carlo\Downloads\Examen3\Examen3\obj\Debug\net9.0\Examen3.sourcelink.json
